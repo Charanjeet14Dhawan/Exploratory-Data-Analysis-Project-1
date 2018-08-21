@@ -94,7 +94,7 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 1
  
-
+![plot1](https://user-images.githubusercontent.com/41323130/44422959-55594980-a5a2-11e8-85bb-ce30eace3626.png)
 
 
 
