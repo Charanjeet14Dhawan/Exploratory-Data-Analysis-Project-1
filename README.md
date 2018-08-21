@@ -97,13 +97,17 @@ The four plots that you will need to construct are shown below.
 ![plot1](https://user-images.githubusercontent.com/41323130/44422959-55594980-a5a2-11e8-85bb-ce30eace3626.png)
 
 
-
 ### Plot 2
+
+![plot2](https://user-images.githubusercontent.com/41323130/44423040-98b3b800-a5a2-11e8-8697-a745e983d6a4.png)
 
 
 ### Plot 3
 
+![plot3](https://user-images.githubusercontent.com/41323130/44423037-981b2180-a5a2-11e8-8792-b3767fbab987.png)
 
 
 ### Plot 4
+
+![plot4](https://user-images.githubusercontent.com/41323130/44423038-981b2180-a5a2-11e8-8784-f3783e299ba3.png)
 
